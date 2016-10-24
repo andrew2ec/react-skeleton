@@ -18,4 +18,4 @@ var ListItem = React.createClass({
    }
 });
 
-module.exports = ListItes;
+module.exports = ListItem;
